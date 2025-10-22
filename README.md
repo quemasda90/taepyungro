@@ -21,5 +21,4 @@
 ### ⚙️ 실행 방법
 
 1. 프로젝트를 clone 또는 다운로드합니다.
-   ```bash
-git clone https://github.com/quemasda90/taepyungro.git
+ git clone https://github.com/quemasda90/taepyungro.git
