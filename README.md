@@ -21,5 +21,5 @@
 ### ⚙️ 실행 방법
 
 1. 프로젝트를 clone 또는 다운로드합니다.
-   
-   git clone https://github.com/사용자이름/CompanyManagementSystem.git
+   ```bash
+git clone https://github.com/quemasda90/taepyungro.git
